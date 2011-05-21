@@ -72,7 +72,7 @@ libraries[ckeditor][destination] = "libraries"
 
 libraries[colorbox][download][type] = "git"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
-libraries[colorbox][download][revision] = "4967ef9c24b4b2bccf15"
+libraries[colorbox][download][revision] = "bf58db42f392d790a9fa"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
