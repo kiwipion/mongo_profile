@@ -50,7 +50,7 @@ projects[rules][version] = "2.0-beta1"
 projects[security_review][version] = "1.x-dev"
 
 projects[skinr][version] = "2.x-dev"
-aq
+
 ; Modules
 projects[taxonomy_manager][version] = "1.x-dev"
 
@@ -74,10 +74,10 @@ libraries[colorbox][download][type] = "git"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][download][revision] = "4967ef9c24b4b2bccf15"
 libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "library"
+libraries[colorbox][destination] = "library"
 
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "http://dl.dropbox.com/u/22795799/superfish-library-for-drupal-v1.zip"
 libraries[superfish][directory_name] = "superfish"
-libraries[superfish][type] = "library"
+libraries[superfish][destination] = "library"
 
