@@ -8,22 +8,19 @@ projects[admin_menu][version] = "3.x-dev"
 
 projects[advanced_help][version] = "1.x-dev"
 
+projects[ckeditor][version] = "1.x-dev"
+
+projects[colorbox][version] = "1.x-dev"
+
 projects[colortheme][version] = "1.0"
 
 projects[ctools][version] = "1.x-dev"
 
-projects[captcha][version] = "1.x-dev"
-
-; Modules
 projects[devel][version] = "1.x-dev"
 
 projects[diff][version] = "1.x-dev"
 
 projects[emptyparagraphkiller][version] = "1.x-dev"
-
-projects[entity][version] = "1.x-dev"
-
-projects[entitycache][version] = "1.0"
 
 projects[features][version] = "1.x-dev"
 
@@ -43,15 +40,8 @@ projects[pathauto][version] = "1.x-dev"
 
 projects[pathologic][version] = "1.1"
 
-projects[realname][version] = "1.0-rc1"
-
-projects[rules][version] = "2.0-beta1"
-
 projects[security_review][version] = "1.x-dev"
 
-projects[skinr][version] = "2.x-dev"
-
-; Modules
 projects[taxonomy_manager][version] = "1.x-dev"
 
 projects[token][version] = "1.x-dev"
@@ -75,8 +65,4 @@ libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
-libraries[superfish][download][type] = "get"
-libraries[superfish][download][url] = "http://dl.dropbox.com/u/22795799/superfish-library-for-drupal-v1.zip"
-libraries[superfish][directory_name] = "superfish"
-libraries[superfish][destination] = "libraries"
 
